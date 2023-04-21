@@ -1,0 +1,16 @@
+★Gamma Correction
+영시설 4주차 실습
+gray scale image gamma correction code를 3 channel의 color image gamma correction code로 변환
+
+https://marisara.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-openCV-2-%EA%B0%90%EB%A7%88-%EB%B3%B4%EC%A0%95Gamma-Correction
+1/g으로 제곱해준다는 아이디어?
+
+https://shopdelta.eu/wdr-wide-dynamic-range_l2_aid863.html
+gamma correction - WDR 관계
+
+★HDR
+https://learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/
+image align opencv code 참고
+
+촬영된 영상의 노출 시간 정보를 가지고 있는 EXIF Data 얻는 방법
+https://www.howtogeek.com/289712/how-to-see-an-images-exif-data-in-windows-and-macos/

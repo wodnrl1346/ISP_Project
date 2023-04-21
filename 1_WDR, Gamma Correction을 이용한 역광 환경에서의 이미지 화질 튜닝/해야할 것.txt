@@ -1,0 +1,10 @@
+1 	여러 Exposure time에서 촬영된 이미지들을 합쳐서 WDR 구현
+	EXIF data 찾아서 노출시간 다르게 촬영된 이미지라는 것 보여주기
+
+2	gamma correction - 영상 픽셀 밝기 평균 -> contrast를 가장 높일 수 있는 gamma 찾기
+
+3	Tone mapping 내장 함수
+
+4	Sharpening
+
+5	Auto Exposure
